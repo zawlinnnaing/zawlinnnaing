@@ -10,4 +10,4 @@ I am **Zaw Lin Naing**. A software engineer with a passion to build things both 
 - ⚡ Fun fact: I like to run 🏃🏻‍♂️, read 📖 and play video games 🎮.
 
 
-[![Zaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawlinnnaing)](https://github.com/anuraghazra/github-readme-stats)
+[![Zaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawlinnnaing&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
