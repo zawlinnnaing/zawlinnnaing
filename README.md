@@ -8,6 +8,3 @@ I am **Zaw Lin Naing**. A software engineer with a passion to build things both 
 - 💬 Ask me about any web-related questions; from JS/TS language-specific questions to system design.
 - 📫 How to reach me: https://zawlinnnaing.com/
 - ⚡ Fun fact: I like to run 🏃🏻‍♂️, read 📖 and play video games 🎮.
-
-
-[![Zaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawlinnnaing&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
