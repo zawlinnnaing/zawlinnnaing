@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Zaw Lin Naing**. A software engineer with a passion to build things both for fun and professionally.
+I am **Zaw Lin Naing**. A software engineer with a passion for building things both for fun and professionally.
 
 - 🔭 I’m currently working on several personal projects, including but not limited to, [Focus mode chrome extension](https://github.com/zen-suite/focus-mode-extension), [Data structure and algorithms in Golang](https://github.com/zawlinnnaing/data-structures-algorithms-go)
 - 🌱 I’m currently learning Golang
