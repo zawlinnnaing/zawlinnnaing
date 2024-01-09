@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am **Zaw Lin Naing**. A software engineer with a passion for building things both for fun and professionally.
 
@@ -8,3 +8,6 @@ I am **Zaw Lin Naing**. A software engineer with a passion for building things b
 - 💬 Ask me about any web-related questions; from JS/TS language-specific questions to system design.
 - 📫 How to reach me: https://zawlinnnaing.com/
 - ⚡ Fun fact: I like to run 🏃🏻‍♂️, read 📖 and play video games 🎮.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,go,nextjs,react,mongodb,postgres,mysql,redis,docker,kubernetes,aws)](https://skillicons.dev)
